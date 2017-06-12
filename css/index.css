@@ -107,6 +107,7 @@ content: "";
 	text-decoration:none;
 }
 .header .active1 .username{
+	color:#000;
 	font-size:14px;
 }
 .headphoto{
