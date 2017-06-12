@@ -1,0 +1,130 @@
+.w1000{
+	width:1000px;
+	height:662px;
+	margin:0 auto;
+}
+.w920{
+	width:920px;
+	margin:0 auto;
+}
+/*头部*/
+.header{
+	height:100px;
+	line-height: 100px;
+}
+.header img{
+	 vertical-align:middle;
+}
+/*banner图部分*/
+.container{
+	width:920px;
+	height: 274px;
+	position: relative;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.bannerbox{
+	width:920px;
+	height: 274px;
+	position: absolute;
+}
+.bannerbox a{
+	width:920px;
+	height: 274px;
+	position: absolute;
+	display: block;
+	left: 0;top:0;
+	overflow: hidden;
+}
+.btnbox{
+	width: 170px;
+	height: 15px;
+	position:absolute;
+	top:240px;
+	left:0;right:0;
+	margin:auto;
+	z-index: 999;
+}
+.btn{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background: #fff;
+	margin-right: 10px;
+	float: left;
+	line-height: 15px;
+	text-align: center;
+	cursor: pointer;
+}
+.ml47{
+	margin-left: 47px;
+}
+
+
+/*主体*/
+.main{
+	height:290px;
+}
+
+.main .main_left{
+	float:left;
+	line-height: 290px;
+}
+.main .main_left .work{
+	vertical-align:middle;
+}
+.main .main_right{
+	margin-left: 350px;
+	float:right;
+	margin-top: 52px;
+	margin-right: 60px;
+}
+.main .main_right form{
+
+}
+.main .main_right form .main-div1 , .main-div2{
+	width: 313px;
+	height:38px;
+	line-height: 38px;
+	border:2px solid #e7e7e7;
+	margin-bottom: 17px;
+	padding-left: 15px;
+	border-radius: 5px;
+}
+.main .main_right form .main-div1{
+	background: url("../img/user.png")  no-repeat 15px;
+}
+.main .main_right form .main-div2{
+	background: url("../img/pwd.png")  no-repeat 15px;
+}
+.main .main_right form input{
+	border:0;
+	outline:none;
+	font-size: 16px;
+	margin-left: 38px;
+}
+.main .main_right form .main-div3{
+	width: 332px;
+	height:55px;
+	line-height: 55px;
+	background: #3fb8a5;
+	text-align: center;
+	border-radius: 5px;
+}
+.main .main_right form .main-div3 button{
+	border:0;
+	outline:none;
+	background: #3fb8a5;
+	color:#ffffff;
+	font-size: 20px;
+
+}
+.main .main_right .main-div4{
+	width: 332px;
+	text-align: center;
+	margin-top: 16px;
+}
+.main .main_right .main-div4 a{
+	text-decoration:none;
+	color:#b6b6b6;
+}
